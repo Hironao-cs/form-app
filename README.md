@@ -1,3 +1,4 @@
+<img width="578" height="757" alt="スクリーンショット 2025-12-24 17 24 24" src="https://github.com/user-attachments/assets/35c883c9-d7f9-4a19-a90e-beea078729dc" />
 # ①課題名
 イベント出欠アンケートアプリ
 
@@ -8,6 +9,7 @@
 デプロイしている場合はURLを記入（任意）
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
+
 
 
 ## ⑤工夫した点・こだわった点
